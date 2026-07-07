@@ -5,6 +5,8 @@
   "version": "v1.0",
   "manifest_version": 2,
   "music": true,
-  "ignore": [],
+  "ignore": [
+    "intro_music.mp3"
+  ],
   "mappings": {}
 }
